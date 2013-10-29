@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="keywords" content="just cause"/>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Colorado Ballot Information</title>
+<!-- TemplateEndEditable -->
+<link href="../css/cb_styles.css" rel="stylesheet" type="text/css"/>
+<!-- TemplateBeginEditable name="head" -->
+<meta http-equiv="description" content="Independent &amp; balanced review of the initiatives &amp; amendments on the Colorado ballot."/>
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<table width="800" align="center" cellspacing='0' cellpadding='0' class='pageMainTable'>
+  <tr>
+    <td colspan="5"><a href="../2012/index.htm"><img src="../images/header.jpg" alt="The 2008 Colorado Ballot" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td width='23px'>&nbsp;</td>
+   
+    <td width="498px" align="left" valign="top" class="tdLargeCenterCol"><!-- TemplateBeginEditable name="main column" -->
+      <h2>bugbug</h2>
+      <h1>Summary</h1>
+      <p class="textMain">bugbug</p>
+      <h1><img src="../images/error.png" alt="Vote NO!" width="24" height="24" /> Vote No</h1>
+      <p class="textMain">bugbug. </p>
+      <h1>Arguments Against</h1>
+      <p class="textMain">bugbug</p>
+      <h1>Arguments For</h1>
+      <p class="textMain">bugbug</p>
+      <!-- TemplateEndEditable --></td>
+    <td width="162px" align="left" valign="top" class="tdRightCol"><h3>Resources</h3>
+      <!-- TemplateBeginEditable name="right col" -->
+      <h1 class="headRightCol">References</h1>
+      <p class="textRightCol"> ballotpedia, etc.</p>
+      <h1 class="headRightCol">Opponents</h1>
+      <p class="textRightCol">sites against.</p>
+      <h1 class="headRightCol">Supporters</h1>
+      <p class="textRightCol">sites for.</p>
+      <!-- TemplateEndEditable -->
+    <p class="copyright">Copyright&copy; 2011 by <a href="mailto:david@thielen.com">David Thielen</a>. All Rights Reserved </p></td>
+    <td width='77px'>&nbsp;</td>
+  </tr>
+</table>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-a2h9Zh8re2O_A"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-a2h9Zh8re2O_A" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-a2h9Zh8re2O_A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- google analytics tag -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5686555-1");
+pageTracker._trackPageview();
+</script>
+<!-- end google analytics tag -->
+</body>
+</html>
