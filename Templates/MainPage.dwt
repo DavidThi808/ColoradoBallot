@@ -29,7 +29,7 @@
             <!-- TemplateEndEditable --> <img src="../images/sidebar01_bottom.gif" width="175" height="23"/></td>
         </tr>
       </table>
-      <p class="copyright">Copyright&copy; 2013 by <a href="mailto:david@thielen.com">David Thielen</a>. All Rights Reserved </p>
+      <p class="copyright">Copyright&copy; 2014 by <a href="mailto:david@thielen.com">David Thielen</a>. All Rights Reserved </p>
       <p class="copyright">
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://bit.ly/9a3isu">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
@@ -48,15 +48,16 @@
       <p class="textRightCol">coming soon</p>
       <h1 class="headRightCol">Reference Sites</h1>
       <p class="textRightCol">These sites provide more information on the initiatives. They do not provide a means of discussion.</p>
-      <p class="textRightCol"><a href="http://www.colorado.gov/cs/Satellite?blobcol=urldata&amp;blobheader=application/pdf&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1251744086314&amp;ssbinary=true">Colorado Legislature Ballot Analysis</a> - The Blue Book. </p>
+      <p class="textRightCol"><a href="http://www.colorado.gov/bluebook">Colorado Legislature Ballot Analysis</a> - The Blue Book. </p>
       <p class="textRightCol"><a href="http://www.sos.state.co.us/pubs/elections/">Colorado Secretary of State</a> - Elections Center.</p>
       <!-- TemplateEndEditable -->
       <h1 class="headRightCol">Blogs</h1>
       <p class="textRightCol"> Blogs are your best resource for a full &amp; open discussion of these initiatives. You can register on these and both ask questions and discuss these issues.</p>
-      <p class="textRightCol"><a href="http://www.coloradopols.com">ColoradoPols</a> - Liberal/Moderate</p>
+      <p class="textRightCol"><a href="http://www.coloradopols.com">ColoradoPols</a> - Liberal</p>
       <p class="textRightCol"><a href="http://www.coloradopeakpolitics.com/">Colorado Peak Politics</a> - Conservative</p>
 <h1 class="headRightCol">Previous Elections</h1>
       <ul>
+        <li><a href="../2013/index.htm" class="textRightCol">2013</a></li>
         <li><a href="../2012/index.htm" class="textRightCol">2012</a></li>
         <li><a href="../2011/index.htm" class="textRightCol">2011</a></li>
         <li><a href="../2010/index.htm" class="textRightCol">2010</a></li>
